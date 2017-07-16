@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30 50" enable-background="new 0 0 30 50" xml:space="preserve">
+<g id="Warstwa_1">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#39444D" d="M4,0h22c2.2,0,4,1.8,4,4v42c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4V4
+		C0,1.8,1.8,0,4,0z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#333D45" d="M26,50H15V0h11c2.2,0,4,1.8,4,4v42C30,48.2,28.2,50,26,50z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#22292E" d="M17.5,4h-5C12.2,4,12,3.8,12,3.5C12,3.2,12.2,3,12.5,3h5
+		C17.8,3,18,3.2,18,3.5C18,3.8,17.8,4,17.5,4z M15,45c1.1,0,2,0.9,2,2c0,1.1-0.9,2-2,2c-1.1,0-2-0.9-2-2C13,45.9,13.9,45,15,45z"/>
+</g>
+<g id="Warstwa_3">
+</g>
+<g id="Warstwa_2">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M4,6h22c0.6,0,1,0.5,1,1v36c0,0.5-0.6,1-1,1H4c-0.5,0-1-0.4-1-1
+		L3,7C3,6.5,3.4,6,4,6z"/>
+	<g id="Warstwa_4">
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#76B7EF" d="M9,17h12c1.1,0,2,0.9,2,2v12c0,1.1-0.9,2-2,2H9c-1.1,0-2-0.9-2-2
+			V19C7,17.9,7.9,17,9,17z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFD54F" d="M18,20c1.1,0,2,0.9,2,2c0,1.1-0.9,2-2,2c-1.1,0-2-0.9-2-2
+			C16,20.9,16.9,20,18,20z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#C4C9CC" d="M16,29l7-4.4V31c0,1.1-0.9,2-2,2H9c-1.1,0-2-0.9-2-2v-4l5-4
+			L16,29z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#8BC34A" d="M16,31l7-1.7V31c0,1.1-0.9,2-2,2H9c-1.1,0-2-0.9-2-2v-1l5-1
+			L16,31z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M23,24.6V26h-2.2L23,24.6z M12,23l2,3H8.3L12,23z"/>
+	</g>
+	<path opacity="5.000000e-002" fill-rule="evenodd" clip-rule="evenodd" d="M27,7c0-1.1,0.1-1-1-1H15v38h11c0.5,0,1-0.3,1-1V7z"/>
+</g>
+</svg>
