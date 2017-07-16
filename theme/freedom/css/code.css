@@ -1,0 +1,94 @@
+body, .smooth-container {
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    width: 100%;
+    min-height: 100%;
+    font-family: 'Helvetica neue', 'Lantinghei SC', 'STHeiti Light', 'Microsoft YaHei', sans-serif;
+    background-color: #fff;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    overflow-x: hidden;
+    overflow-y: auto;
+
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.8em;
+}
+
+ul li {
+    padding-right: 1em;
+    list-style: none;
+}
+
+hr {
+    margin-top: -1px;
+    max-width: 400px;
+    height: 1px;
+    border: none;
+    background-image:linear-gradient(0deg, transparent, #dcdcdc, transparent);
+    background-image: -webkit-linear-gradient(0deg, transparent, #dcdcdc, transparent);
+}
+
+//.bg {
+    background: linear-gradient(#1c9b47, transparent), linear-gradient(90deg, skyblue, transparent), linear-gradient(-90deg, orange, transparent);
+}
+
+.content {
+    position: absolute;
+    margin-top: -150px;
+    margin-bottom: 100px;
+    top: 32%;
+    width: 100%;
+    height: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.avatar img {
+    display: inline-block;
+    width: 350px;
+    height: auto;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.slogan {
+    margin-bottom: 26px;
+    font-size: 16px;
+    font-weight: 200;
+    color: #666;
+}
+
+.nav {
+    color: #bbb;
+}
+
+.nav .item {
+    display: inline-block;
+}
+
+.nav .item a {
+    display: inline-block;
+    font-size: .9em;
+    color: #1c9b47;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+.nav .item a:hover {
+    color: #00c0ef;
+}
+
+@media (max-width: 640px) {
+.content {
+    top: 25%;
+}
+}
