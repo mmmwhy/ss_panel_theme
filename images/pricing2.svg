@@ -1,0 +1,100 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="110px" height="94px" viewBox="0 0 110 94">
+<defs>
+<g id="Layer0_0_MEMBER_0_FILL">
+<path fill="#DEDDE0" stroke="none" d="
+M 76.4 290
+L 80 340 170 340 170 290 76.4 290 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_1_FILL">
+<path fill="#DEDDE0" stroke="none" d="
+M 170 130
+L 170 80 61.4 80 65 130 170 130 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_2_FILL">
+<path fill="#ACABB1" stroke="none" d="
+M 263.55 290
+L 170 290 170 340 260 340 263.55 290 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_3_FILL">
+<path fill="#ACABB1" stroke="none" d="
+M 278.55 80
+L 170 80 170 130 275 130 278.55 80 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_4_FILL">
+<path fill="#FFDA44" stroke="none" d="
+M 170 160
+L 170 130 50 130 60 290 170 290 170 260
+Q 153.4 260 141.7 245.35 130 230.75 130 210 130 189.3 141.7 174.65 153.45 160 170 160 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_5_FILL">
+<path fill="#FF9811" stroke="none" d="
+M 170 160
+Q 186.55 160 198.25 174.65 210 189.3 210 210 210 230.7 198.25 245.35 186.55 260 170 260
+L 170 290 280 290 290 130 170 130 170 160 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_6_FILL">
+<path fill="#50412E" stroke="none" d="
+M 198.25 174.65
+Q 186.55 160 170 160
+L 170 260
+Q 186.55 260 198.25 245.35 210 230.7 210 210 210 189.3 198.25 174.65 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_7_FILL">
+<path fill="#786145" stroke="none" d="
+M 130 210
+Q 130 230.75 141.7 245.35 153.4 260 170 260
+L 170 160
+Q 153.45 160 141.7 174.65 130 189.3 130 210 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_8_FILL">
+<path fill="#50412E" stroke="none" d="
+M 260 40
+L 260 0 80 0 80 40 40 40 40 80 300 80 300 40 260 40 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_5_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_6_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_7_FILL"/>
+</g>
+
+<g transform="matrix( 0.2765350341796875, 0, 0, 0.2764739990234375, 8,0) ">
+<use xlink:href="#Layer0_0_MEMBER_8_FILL"/>
+</g>
+</svg>
